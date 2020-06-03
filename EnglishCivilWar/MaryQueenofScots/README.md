@@ -1,0 +1,1 @@
+Fixing the Mary, Queen of Scots, message to be a null cipher, containing a list of names of 'supporters.' She used an insecure cipher, and the double agent was able to decode her message. But if the message was changed to seem less 'treasony', she might have survived. 
